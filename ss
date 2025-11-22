@@ -23,8 +23,9 @@ def way_to_analyse():
 
 
 def expense_tracker():
-    print(input("Enter expense name: "))
-    print(input("Enter the amount you have purchase: "))
+    expense=print(input("Enter expense name: "))
+    print(input("How much is your expense?: "))
+    amount=print(input("Enter the amount you have purchase: "))
                 
                 
     expense_categories=[
@@ -45,7 +46,7 @@ expense_tracker()
     
 
 def expense_analyse():
-
+    new_expense=expense*amount
 
 
 
