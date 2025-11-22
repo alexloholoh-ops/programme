@@ -1,5 +1,5 @@
 def way_to_analyse():
-    # Use a loop to repeatedly ask for input until valid data is entere
+    # Use a loop to repeatedly ask for input until valid data is entered
     while True:
         print("Way to analyse: 1: Total 2: Classified")
         
